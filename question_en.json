@@ -1,77 +1,50 @@
 [
   {
     "id": 1,
-    "question": "Who has already worked with Poupette?",
-    "only": ""
+    "question": "Who has already worked with Poupette?"
   },
   {
     "id": 2,
-    "question": "Special Bachelor Party: Who has received at least one spank during Alberto’s farewell?",
-    "only": ""
+    "question": "Who is single ?"
   },
   {
     "id": 3,
-    "question": "Qui fait parti de l'équipe de handball de Bazan",
-    "only": "fr"
+    "question": "Who is in Bazan handball's team?"
   },
   {
     "id": 4,
-    "question": "Qui a fait du basket avec Alberto ?",
-    "only": "es"
+    "question": "Who has ever done basketball with Alberto?"
   },
   {
     "id": 5,
-    "question": "",
-    "only": ""
+    "question": "Who has \"Maria\" in their name?"
   },
   {
     "id": 6,
-    "question": "",
-    "only": ""
+    "question": "Who has registered for a race in the last 6 months or the next 6?"
   },
   {
     "id": 7,
-    "question": "",
-    "only": ""
+    "question": "Who has a kids younger than 8 years old?"
   },
   {
     "id": 8,
-    "question": "",
-    "only": ""
+    "question": "Who has ever studied anything with Alberto?"
   },
   {
     "id": 9,
-    "question": "",
-    "only": ""
+    "question": "Who has ever lived with Alberto?"
   },
   {
     "id": 10,
-    "question": "",
-    "only": ""
+    "question": "Who has ever played chess with Alberto?"
   },
   {
     "id": 11,
-    "question": "",
-    "only": ""
+    "question": "Who has received at least one spank during Alberto’s bachelor party?"
   },
   {
     "id": 12,
-    "question": "",
-    "only": ""
-  },
-  {
-    "id": 13,
-    "question": "",
-    "only": ""
-  },
-  {
-    "id": 14,
-    "question": "",
-    "only": ""
-  },
-  {
-    "id": 15,
-    "question": "",
-    "only": ""
+    "question": "Who has studied or had a formation with Poupette?"
   }
 ]

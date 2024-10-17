@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Quién ha trabajado con Poupette?"
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Quién está soltero(a)?"
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Quién está en el equipo de balonmano de Bazan?"
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Quién ha jugado baloncesto con Alberto?"
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Quién tiene \"María\" en su nombre?"
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Quién se ha inscrito en una carrera en los últimos 6 meses o en los próximos 6?"
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Quién tiene hijos menores de 8 años?"
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Quién ha estudiado algo con Alberto?"
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Quién ha vivido alguna vez con Alberto?"
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Quién ha jugado ajedrez con Alberto?"
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Quién ha recibido al menos una nalgada durante la despedida de soltero de Alberto?"
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Quién ha estudiado o ha hecho una formación con Poupette?"
+  }
+]
