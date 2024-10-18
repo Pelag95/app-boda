@@ -5,7 +5,7 @@
   },
   {
     "id": 2,
-    "question": "Qui est célibataire ?"
+    "question": "Qui ici présent est célibataire ?"
   },
   {
     "id": 3,
@@ -46,5 +46,17 @@
   {
     "id": 12,
     "question": "Qui a étudié ou suivi une formation avec Poupette ?"
+  },
+  {
+    "id": 13,
+    "question": "Qui a déjà été en festival avec Poupette?"
+  },
+  {
+    "id": 14,
+    "question": "Qui a déjà été en coloc' avec Poupette?"
+  },
+  {
+    "id": 15,
+    "question": "Qui a été à l'un des deux enterrements de vie de jeune fille de Pauline ?"
   }
 ]

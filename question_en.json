@@ -21,11 +21,11 @@
   },
   {
     "id": 6,
-    "question": "Who has registered for a race in the last 6 months or the next 6?"
+    "question": "Who has registered for a race (running) in the last 6 months or the next 6?"
   },
   {
     "id": 7,
-    "question": "Who has a kids younger than 8 years old?"
+    "question": "Who has a kid younger than 8 years old?"
   },
   {
     "id": 8,
@@ -46,5 +46,17 @@
   {
     "id": 12,
     "question": "Who has studied or had a formation with Poupette?"
+  },
+  {
+    "id": 13,
+    "question": "Who has ever been to a festival with Poupette?"
+  },
+  {
+    "id": 14,
+    "question": "Who has ever shared an apartment with Poupette"
+  },
+  {
+    "id": 15,
+    "question": "Who was present at either one of Poupette's bachelor parties?"
   }
 ]

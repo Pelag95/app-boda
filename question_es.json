@@ -13,7 +13,7 @@
   },
   {
     "id": 4,
-    "question": "¿Quién ha jugado baloncesto con Alberto?"
+    "question": "¿Quién ha jugado al baloncesto con Alberto?"
   },
   {
     "id": 5,
@@ -46,5 +46,17 @@
   {
     "id": 12,
     "question": "¿Quién ha estudiado o ha hecho una formación con Poupette?"
+  },
+  {
+    "id": 13,
+    "question": "¿Quién ha estado algun vez en un festival con Poupette?"
+  },
+  {
+    "id": 14,
+    "question": "¿Quién ha compartido piso con Poupette?"
+  },
+  {
+    "id": 15,
+    "question": "¿Quién ha estado en alguna de las dos despedidas de Pauline?"
   }
 ]
