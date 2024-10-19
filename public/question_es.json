@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "¿Quién ha trabajado con Poupette?"
+  },
+  {
+    "id": 2,
+    "question": "¿Quién está soltero(a)?"
+  },
+  {
+    "id": 3,
+    "question": "¿Quién está en el equipo de balonmano de Bazan?"
+  },
+  {
+    "id": 4,
+    "question": "¿Quién ha jugado al baloncesto con Alberto?"
+  },
+  {
+    "id": 5,
+    "question": "¿Quién tiene \"María\" en su nombre?"
+  },
+  {
+    "id": 6,
+    "question": "¿Quién se ha inscrito en una carrera en los últimos 6 meses o en los próximos 6?"
+  },
+  {
+    "id": 7,
+    "question": "¿Quién tiene hijos menores de 8 años?"
+  },
+  {
+    "id": 8,
+    "question": "¿Quién ha estudiado algo con Alberto?"
+  },
+  {
+    "id": 9,
+    "question": "¿Quién ha vivido alguna vez con Alberto?"
+  },
+  {
+    "id": 10,
+    "question": "¿Quién ha jugado ajedrez con Alberto?"
+  },
+  {
+    "id": 11,
+    "question": "¿Quién ha recibido al menos una nalgada durante la despedida de soltero de Alberto?"
+  },
+  {
+    "id": 12,
+    "question": "¿Quién ha estudiado o ha hecho una formación con Poupette?"
+  },
+  {
+    "id": 13,
+    "question": "¿Quién ha estado algun vez en un festival con Poupette?"
+  },
+  {
+    "id": 14,
+    "question": "¿Quién ha compartido piso con Poupette?"
+  },
+  {
+    "id": 15,
+    "question": "¿Quién ha estado en alguna de las dos despedidas de Pauline?"
+  }
+]

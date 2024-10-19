@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Qui a déjà travaillé avec Poupette ?"
+  },
+  {
+    "id": 2,
+    "question": "Qui ici présent est célibataire ?"
+  },
+  {
+    "id": 3,
+    "question": "Qui est dans l’équipe de handball de Bazan ?"
+  },
+  {
+    "id": 4,
+    "question": "Qui a déjà joué au basket avec Alberto ?"
+  },
+  {
+    "id": 5,
+    "question": "Qui a \"Maria\" dans son nom ?"
+  },
+  {
+    "id": 6,
+    "question": "Qui s'est inscrit à une course dans les 6 derniers mois ou dans les 6 prochains ?"
+  },
+  {
+    "id": 7,
+    "question": "Qui a des enfants de moins de 8 ans ?"
+  },
+  {
+    "id": 8,
+    "question": "Qui a déjà étudié quelque chose avec Alberto ?"
+  },
+  {
+    "id": 9,
+    "question": "Qui a déjà vécu avec Alberto ?"
+  },
+  {
+    "id": 10,
+    "question": "Qui a déjà joué aux échecs avec Alberto ?"
+  },
+  {
+    "id": 11,
+    "question": "Qui a reçu au moins une fessée lors de l'enterrement de vie de garçon d'Alberto ?"
+  },
+  {
+    "id": 12,
+    "question": "Qui a étudié ou suivi une formation avec Poupette ?"
+  },
+  {
+    "id": 13,
+    "question": "Qui a déjà été en festival avec Poupette?"
+  },
+  {
+    "id": 14,
+    "question": "Qui a déjà été en coloc' avec Poupette?"
+  },
+  {
+    "id": 15,
+    "question": "Qui a été à l'un des deux enterrements de vie de jeune fille de Pauline ?"
+  }
+]
